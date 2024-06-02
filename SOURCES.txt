@@ -1,0 +1,10 @@
+README.md
+setup.py
+QAApplication.egg-info/PKG-INFO
+QAApplication.egg-info/SOURCES.txt
+QAApplication.egg-info/dependency_links.txt
+QAApplication.egg-info/requires.txt
+QAApplication.egg-info/top_level.txt
+QASystem/__init__.py
+QASystem/ingestion.py
+QASystem/retrievalandgeneration.py
